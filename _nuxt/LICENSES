@@ -24,6 +24,11 @@
  */
 
 /*!
+ * @license Copyright (c) 2003-2019, CKSource - Frederico Knabben. All rights reserved.
+ * For licensing, see LICENSE.md.
+ */
+
+/*!
  * Vue.js v2.6.10
  * (c) 2014-2019 Evan You
  * Released under the MIT License.
@@ -3098,11 +3103,6 @@
 /*!******************************************************************************!*\
   !*** external {"commonjs":"vue","commonjs2":"vue","amd":"vue","root":"Vue"} ***!
   \******************************************************************************/
-
-/*!
- * @license Copyright (c) 2003-2019, CKSource - Frederico Knabben. All rights reserved.
- * For licensing, see LICENSE.md.
- */
 
 /*!
  * jquery.fancytree.js
